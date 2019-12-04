@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    data-password:
+    data-username: root
+    url: jdbc:mysql://localhost:8080/sample
+server:
+  port: 8080
+
+
